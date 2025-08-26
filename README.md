@@ -25,7 +25,7 @@ This web app helps you generate color pallete for your project. It also allows y
 # Motivation
 The motivation from this project stems from codecommentor.io. I like to make various projects when i am not at work to sharpen my web development skills.
 # Screenshot
-![image alt](https://github.com/ola9292/morgage-calculator/blob/06ce886fadd4499cebed3899111a4f98bcda1447/Screenshot%202025-08-22%20at%2011.22.25.png)
+![image alt](https://github.com/ola9292/vue-color-pallete/blob/4c7033af2c679261b67f1364f543a3acadacc88d/Screenshot%202025-08-26%20at%2010.15.25%20pm.png)
 # Framework
 Vue js
 # How to use
